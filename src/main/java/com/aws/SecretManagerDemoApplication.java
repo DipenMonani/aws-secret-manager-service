@@ -9,7 +9,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SecretManagerDemoApplication {
 	public static void main(String[] args) throws JsonProcessingException {
 		SpringApplication.run(SecretManagerDemoApplication.class, args);
-		//
     }
 
 }
